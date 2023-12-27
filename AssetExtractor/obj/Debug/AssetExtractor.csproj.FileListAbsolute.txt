@@ -1,0 +1,8 @@
+c:\users\robin\documents\visual studio 2015\Projects\AssetExtractor\AssetExtractor\bin\Debug\AssetExtractor.exe.config
+c:\users\robin\documents\visual studio 2015\Projects\AssetExtractor\AssetExtractor\bin\Debug\AssetExtractor.exe
+c:\users\robin\documents\visual studio 2015\Projects\AssetExtractor\AssetExtractor\bin\Debug\AssetExtractor.pdb
+c:\users\robin\documents\visual studio 2015\Projects\AssetExtractor\AssetExtractor\obj\Debug\AssetExtractor.csprojResolveAssemblyReference.cache
+c:\users\robin\documents\visual studio 2015\Projects\AssetExtractor\AssetExtractor\obj\Debug\AssetExtractor.Properties.Resources.resources
+c:\users\robin\documents\visual studio 2015\Projects\AssetExtractor\AssetExtractor\obj\Debug\AssetExtractor.csproj.GenerateResource.Cache
+c:\users\robin\documents\visual studio 2015\Projects\AssetExtractor\AssetExtractor\obj\Debug\AssetExtractor.exe
+c:\users\robin\documents\visual studio 2015\Projects\AssetExtractor\AssetExtractor\obj\Debug\AssetExtractor.pdb
